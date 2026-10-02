@@ -432,8 +432,7 @@ Git and GitHub version control
 
 🔗 Repository
 
-GitHub Repository: https://github.com/prajwal-shinde/Angular-Practicals
-
+GitHub Repository: (https://github.com/PRAJWAL216/Angular-Practical.git)
 👨‍💻 Student
 
 Prajwal Shinde
