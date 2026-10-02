@@ -51,7 +51,6 @@ Sr. No.	Technology	Practical	Topic	Status
 10	React	Practical-10	To-Do List	✅ Completed
 11	React	Practical-11	Calculator	✅ Completed
 12	React	Practical-12	Digital Clock	✅ Completed
-🅰️ Angular Practicals
 Practical-01 — String Interpolation
 
 Objective: To create an Angular application demonstrating string interpolation.
